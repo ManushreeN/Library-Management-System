@@ -1,11 +1,11 @@
-# This is a full-stack Library Management System built using React, Flask, and SQLite, with JWT-based authentication, role-based access control, and RESTful APIs for managing books, users, and borrowing operations.
+#This is a full-stack Library Management System built using React, Flask, and SQLite, with JWT-based authentication, role-based access control, and RESTful APIs for managing books, users, and borrowing operations.
 
 
-# Getting Started with Create React App
+#Getting Started with Create React App
 
 This project was bootstrapped with [Create React App]
 
-## Available Scripts
+##Available Scripts
 
 In the project directory, you can run:
 
@@ -15,31 +15,31 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # TECH STACK
-# FRONTEND
+#FRONTEND
 React
 JavaScript (ES6)
 HTML + CSS
 (Fetch API (for calling backend))
 
-# BACKEND
+#BACKEND
 Flask
 Python
 
-# Libraries 
+#Libraries 
 flask → server
 flask-cors → connect frontend
 jwt → authentication
 dotenv → env variables
 sqlite3 → database connection
 
-# DATABASE
+#DATABASE
  SQLite
 
- # AUTHENTICATION
+ #AUTHENTICATION
 JWT Token based authentication
 Role-based access (Admin / User)
 
- # TOOLS USED
+ #TOOLS USED
 Postman → API testing
 VS Code → coding
 Browser DevTools → debugging
