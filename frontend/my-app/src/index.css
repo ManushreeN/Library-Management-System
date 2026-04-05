@@ -1,0 +1,9 @@
+/* src/index.css — global reset only. All component styles are in App.module.css */
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background: #f4f3f0;
+}
